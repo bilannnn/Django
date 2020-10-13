@@ -1,0 +1,34 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="W292" />
+          <option value="E303" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="list.sorted" />
+          <option value="calc" />
+          <option value="employeer" />
+          <option value="employee" />
+          <option value="Employee" />
+          <option value="green_lantern.lantern.tdd.tdd_homework.test_lonely_robot_execution.lonely_robot" />
+          <option value="int.move_forward" />
+          <option value="green_lantern.lantern.flask_lection_2.app.module1" />
+          <option value="green_lantern.lantern.flask_lection_2.app.flask_restful" />
+          <option value="green_lantern.lantern.flask_practice_2.grocery_store.store_app.*" />
+          <option value="green_lantern.lantern.flask_practice_2.grocery_store.test_store.*" />
+          <option value="green_lantern.lantern.flask_practice_2.grocery_store.fake_storage.*" />
+          <option value="green_lantern.lantern.flask_practice_2.grocery_store.run.views" />
+          <option value="green_lantern.lantern.flask_practice_2.grocery_store.views.goods.fake_storage" />
+          <option value="flask_lesson_3.practice.app.*" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
